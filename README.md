@@ -3,7 +3,7 @@
 
 - I`m Python-Developer!
 - My best project is [MinePort][portes] !
-- I also write my own [russifiers][steam] for games under Linux!
+- I also write my own [russifiers][steam] for Linux-games!
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=maccree&show_icons=true" alt="maccree" />
