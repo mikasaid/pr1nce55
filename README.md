@@ -1,6 +1,6 @@
 ![Catz with Ramen](pics/catswithramen.jpg)
 # Hello there! 👋
-**I'm Adrian :octocat: **
+##I'm Adrian :octocat:
 
 - I`m Python-Developer!
 - My best project is [MinePort][portes] !
@@ -16,7 +16,7 @@
     </a>
     </p>
 
-    ![Catz with cakes](pics/catswithcakes.jpg)
+![Catz with cakes](pics/catswithcakes.jpg)
 
 </details>
 
