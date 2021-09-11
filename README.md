@@ -18,11 +18,13 @@
 
 ## Contact with me:
 <a href="https://t.me/pr1nce55">
-  <img align="left" alt="Instagram" width="31px" src="https://raw.githubusercontent.com/pr1nce55/pr1nce55/master/assets/telegram.svg" />
+  <img align="left" alt="Instagram" width="31px" src="https://raw.githubusercontent.com/pr1nce55/pr1nce55/master/pics/telegram.svg" />
 </a>
 
+
+
 <a href="https://instagram.com/pr1nce55.me">
-  <img align="left" alt="Instagram" width="31px" src="https://raw.githubusercontent.com/pr1nce55/pr1nce55/master/assets/instagram.svg" />
+  <img align="left" alt="Instagram" width="31px" src="https://raw.githubusercontent.com/pr1nce55/pr1nce55/master/pics/instagram.svg" />
 </a>
 
 </details>
